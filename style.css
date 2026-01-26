@@ -81,3 +81,11 @@ object-fit: cover;
   display: flex;
   color: rgba(181, 40, 40, 0.934);
  }
+ #FOOT{
+  background-color: black;
+  color: aliceblue;
+  height: 2cm;
+  font-size: x-large;
+  text-align: center;
+  padding-top: 2cm;
+ }
