@@ -52,3 +52,11 @@ object-fit: cover;
   block-size: auto;
   
  }
+.img{
+  display: grid;
+  aspect-ratio: 30/30;
+     margin: 2cm;
+  grid-template-columns: repeat(3,1fr);
+  grid-template-rows: repeat(3.1fr);
+
+ }
