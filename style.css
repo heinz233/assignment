@@ -42,3 +42,13 @@ object-fit: cover;
   display: block;
   
  }
+.image{
+  display: grid;
+  object-fit: ;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  image-resolution: 10/19;
+  block-size: auto;
+  
+ }
