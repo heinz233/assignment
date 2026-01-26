@@ -14,3 +14,12 @@
   body{
   background-color: rgb(193, 237, 237);
  }
+ #head2{
+  font-weight: bold;
+  text-align: center;
+  font-size: x-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  justify-content: center;
+  display: flex;
+  color: rgba(181, 40, 40, 0.934);
+ }
