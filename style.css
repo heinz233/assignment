@@ -23,3 +23,8 @@
   display: flex;
   color: rgba(181, 40, 40, 0.934);
  }
+section div p{
+  font-size: larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(7, 7, 75);
+ }
