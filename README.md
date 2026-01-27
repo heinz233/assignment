@@ -1,1 +1,3 @@
-# assignment d9ene by HEINZ ATENG', a student at Moringa school. 
+# assignment d9ene by HEINZ ATENG'
+A student at Moringa school.
+This was part of his assignment
