@@ -1,3 +1,4 @@
-# assignment d9ene by HEINZ ATENG'
+Assignment done by HEINZ ATENG'.
 A student at Moringa school.
-This was part of his assignment
+This is a picture portfolio to show his favorite scenes.
+
