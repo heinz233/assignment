@@ -118,9 +118,10 @@ object-fit: cover;
 
  #bio {
   max-width: 600px;
+  
   margin: 40px auto;
   padding: 20px;
-  background: #ffffff;
+  background: #bdffff;
   border-radius: 10px;
   text-align: center;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
@@ -144,6 +145,12 @@ object-fit: cover;
 
 #bio p {
   font-size: 16px;
-  color: #555;
+  color: #ffffff;
   line-height: 1.6;
+}
+
+#ll{
+  color: #ffffff;
+  font-weight: bold;
+  background-color: rgb(101, 128, 152);
 }
