@@ -19,7 +19,7 @@
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   justify-content: center;
   display: flex;
-  color: rgba(181, 40, 40, 0.934);
+  color: rgba(204, 255, 116, 0.904);
  }
 section div p{
   font-size: larger;
@@ -27,7 +27,7 @@ section div p{
   color: rgb(255, 255, 255);
  }
  p{
-  border-style: solid;
+  
   flex-wrap: wrap;
   display: grid;
   display: inline-flexbox;
@@ -57,7 +57,7 @@ object-fit: cover;
   color: rgb(76, 215, 162);
   text-align: center;
   margin: 2cm;
-  border-style: solid;
+  border-style: ridge;
   border-width: 30px;
  }
 
@@ -81,7 +81,7 @@ object-fit: cover;
   padding: 0%;
  }
  .photos{
-  color: rgb(109, 134, 214);
+  color: rgb(255, 255, 255);
   text-align: center;
   display: block;
  }
@@ -113,5 +113,5 @@ object-fit: cover;
  }
 
  .pop{
-  color: rgb(140, 171, 255);
+  color: rgb(169, 169, 236);
  }
