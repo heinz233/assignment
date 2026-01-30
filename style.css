@@ -52,9 +52,9 @@ object-fit: cover;
  }
 
  #intro{
-  font-size: large;
+  font-size: larger;
   font-family: monospace;
-  color: rgb(0, 0, 0);
+  color: rgb(76, 215, 162);
   text-align: center;
   margin: 2cm;
   border-style: solid;
@@ -67,7 +67,9 @@ object-fit: cover;
      margin: 2cm;
   grid-template-columns: repeat(2,1fr);
   grid-template-rows: repeat(2.1fr);
-
+  border-style: solid;
+  border-width: 30px;
+  color: rgb(0, 255, 13);
  }
 #cover{
   object-fit: cover;
@@ -108,4 +110,8 @@ object-fit: cover;
  }
  body{
   background-image: image(.img);
+ }
+
+ .pop{
+  color: rgb(140, 171, 255);
  }
