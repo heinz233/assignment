@@ -11,9 +11,7 @@
   font-size: x-large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	}
-  body{
-  background-color: rgb(26, 109, 104);
- }
+  
  #head2{
   font-weight: bold;
   text-align: center;
@@ -70,7 +68,7 @@ object-fit: cover;
   padding: 0%;
  }
  .photos{
-  color: darkgreen;
+  color: rgb(109, 134, 214);
   text-align: center;
   display: block;
  }
@@ -97,8 +95,6 @@ object-fit: cover;
   background-size:0cm;
 
  }
-
-@media screen and (min-width: 480px) {
-    body {
-        color: white;
-    }
+ body{
+  background-image: image(.img);
+ }
